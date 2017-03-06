@@ -1,0 +1,13 @@
+/.idea/
+/.gradle/
+/build/
+/*.iml
+
+/scenes/*.dump
+/scenes/*.backup
+
+# Benchmark files:
+/temp/
+/data/
+
+*.swp

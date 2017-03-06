@@ -1,0 +1,5332 @@
+{
+  "sdfVersion": 7,
+  "name": "indoors2",
+  "width": 400,
+  "height": 400,
+  "exposure": 1.0,
+  "postprocess": "GAMMA",
+  "outputMode": "PNG",
+  "renderTime": 0,
+  "spp": 0,
+  "sppTarget": 1000,
+  "rayDepth": 5,
+  "pathTrace": false,
+  "dumpFrequency": 0,
+  "saveSnapshots": false,
+  "emittersEnabled": true,
+  "emitterIntensity": 13.0,
+  "sunEnabled": true,
+  "stillWater": false,
+  "waterOpacity": 0.42,
+  "waterVisibility": 9.0,
+  "useCustomWaterColor": false,
+  "fogColor": {
+    "red": 0.42814502293337064,
+    "green": 0.5858024691358026,
+    "blue": 1.0
+  },
+  "fastFog": true,
+  "biomeColorsEnabled": true,
+  "transparentSky": false,
+  "fogDensity": 0.0,
+  "waterHeight": 0,
+  "renderActors": true,
+  "world": {
+    "path": "/home/jesper/Downloads/bro3",
+    "dimension": 0
+  },
+  "camera": {
+    "name": "camera 1",
+    "position": {
+      "x": -233.0938218621075,
+      "y": 80.52833543267339,
+      "z": 2301.1589033522614
+    },
+    "orientation": {
+      "roll": 0.0,
+      "pitch": -1.5583008726608876,
+      "yaw": 0.11783168215264558
+    },
+    "projectionMode": "PINHOLE",
+    "fov": 70.0,
+    "dof": "Infinity",
+    "focalOffset": 2.0
+  },
+  "sun": {
+    "altitude": 1.0471975511965976,
+    "azimuth": 1.2566370614359172,
+    "intensity": 1.25,
+    "color": {
+      "red": 1.0,
+      "green": 1.0,
+      "blue": 1.0
+    }
+  },
+  "sky": {
+    "skyYaw": 0.0,
+    "skyMirrored": true,
+    "skyLight": 1.0,
+    "mode": "SIMULATED",
+    "horizonOffset": 0.1,
+    "cloudsEnabled": false,
+    "cloudSize": 64.0,
+    "cloudOffset": {
+      "x": 0.0,
+      "y": 128.0,
+      "z": 0.0
+    },
+    "gradient": [
+      {
+        "rgb": "0BABC7",
+        "pos": 0.0
+      },
+      {
+        "rgb": "75AAFF",
+        "pos": 1.0
+      }
+    ]
+  },
+  "cameraPresets": {
+    
+  },
+  "chunkList": [
+    [
+      -19,
+      141
+    ],
+    [
+      -17,
+      141
+    ],
+    [
+      -14,
+      145
+    ],
+    [
+      -20,
+      144
+    ],
+    [
+      -14,
+      147
+    ],
+    [
+      -19,
+      140
+    ],
+    [
+      -16,
+      143
+    ],
+    [
+      -18,
+      147
+    ],
+    [
+      -18,
+      144
+    ],
+    [
+      -13,
+      147
+    ],
+    [
+      -13,
+      142
+    ],
+    [
+      -14,
+      141
+    ],
+    [
+      -16,
+      146
+    ],
+    [
+      -13,
+      143
+    ],
+    [
+      -21,
+      144
+    ],
+    [
+      -17,
+      144
+    ],
+    [
+      -14,
+      143
+    ],
+    [
+      -15,
+      147
+    ],
+    [
+      -15,
+      141
+    ],
+    [
+      -19,
+      142
+    ],
+    [
+      -12,
+      145
+    ],
+    [
+      -14,
+      142
+    ],
+    [
+      -18,
+      142
+    ],
+    [
+      -18,
+      140
+    ],
+    [
+      -14,
+      146
+    ],
+    [
+      -16,
+      144
+    ],
+    [
+      -19,
+      144
+    ],
+    [
+      -18,
+      146
+    ],
+    [
+      -16,
+      145
+    ],
+    [
+      -20,
+      140
+    ],
+    [
+      -13,
+      141
+    ],
+    [
+      -16,
+      142
+    ],
+    [
+      -19,
+      143
+    ],
+    [
+      -20,
+      145
+    ],
+    [
+      -19,
+      146
+    ],
+    [
+      -20,
+      143
+    ],
+    [
+      -13,
+      140
+    ],
+    [
+      -14,
+      144
+    ],
+    [
+      -16,
+      140
+    ],
+    [
+      -17,
+      146
+    ],
+    [
+      -19,
+      147
+    ],
+    [
+      -17,
+      140
+    ],
+    [
+      -12,
+      142
+    ],
+    [
+      -17,
+      145
+    ],
+    [
+      -21,
+      147
+    ],
+    [
+      -17,
+      147
+    ],
+    [
+      -15,
+      143
+    ],
+    [
+      -16,
+      141
+    ],
+    [
+      -21,
+      140
+    ],
+    [
+      -18,
+      141
+    ],
+    [
+      -17,
+      142
+    ],
+    [
+      -15,
+      145
+    ],
+    [
+      -20,
+      141
+    ],
+    [
+      -12,
+      146
+    ],
+    [
+      -15,
+      146
+    ],
+    [
+      -12,
+      147
+    ],
+    [
+      -21,
+      141
+    ],
+    [
+      -20,
+      142
+    ],
+    [
+      -15,
+      140
+    ],
+    [
+      -13,
+      145
+    ],
+    [
+      -14,
+      140
+    ],
+    [
+      -21,
+      145
+    ],
+    [
+      -12,
+      143
+    ],
+    [
+      -15,
+      144
+    ],
+    [
+      -21,
+      142
+    ],
+    [
+      -18,
+      143
+    ],
+    [
+      -18,
+      145
+    ],
+    [
+      -13,
+      146
+    ],
+    [
+      -19,
+      145
+    ],
+    [
+      -12,
+      144
+    ],
+    [
+      -20,
+      147
+    ],
+    [
+      -20,
+      146
+    ],
+    [
+      -13,
+      144
+    ],
+    [
+      -12,
+      140
+    ],
+    [
+      -12,
+      141
+    ],
+    [
+      -17,
+      143
+    ],
+    [
+      -15,
+      142
+    ],
+    [
+      -21,
+      143
+    ],
+    [
+      -21,
+      146
+    ],
+    [
+      -16,
+      147
+    ]
+  ],
+  "entities": [
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -201.0,
+        "y": 69.0,
+        "z": 2259.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -248.9375,
+        "y": 78.0,
+        "z": 2240.0
+      },
+      "art": "SkullAndRoses",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -256.0,
+        "y": 70.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -244.0,
+        "y": 70.0,
+        "z": 2244.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -322.0,
+        "y": 71.0,
+        "z": 2302.0
+      },
+      "type": 1,
+      "rotation": 0,
+      "placement": 2
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -272.0,
+        "y": 63.5,
+        "z": 2267.9375
+      },
+      "art": "Creebet",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -271.5,
+        "y": 62.5,
+        "z": 2259.0625
+      },
+      "art": "Alban",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -269.0625,
+        "y": 62.5,
+        "z": 2265.5
+      },
+      "art": "Aztec2",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -269.0625,
+        "y": 63.5,
+        "z": 2264.5
+      },
+      "art": "Alban",
+      "angle": 90.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -270.0,
+        "y": 62.0,
+        "z": 2266.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -270.0,
+        "y": 64.0,
+        "z": 2269.0
+      },
+      "type": 3,
+      "rotation": 10,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -270.0,
+        "y": 68.0,
+        "z": 2263.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -270.0,
+        "y": 61.0,
+        "z": 2266.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -271.0,
+        "y": 61.0,
+        "z": 2269.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -269.0,
+        "y": 68.0,
+        "z": 2262.0
+      },
+      "text": [
+        [],
+        [],
+        [{
+            "text": "Everyone"
+          }],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -286.0,
+        "y": 60.0,
+        "z": 2311.0
+      },
+      "type": 0,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -288.0,
+        "y": 60.0,
+        "z": 2315.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -253.0,
+        "y": 73.0,
+        "z": 2307.9375
+      },
+      "art": "Bust",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -243.9375,
+        "y": 73.0,
+        "z": 2309.5
+      },
+      "art": "Wanderer",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -246.0,
+        "y": 73.0,
+        "z": 2307.9375
+      },
+      "art": "Stage",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -255.0625,
+        "y": 72.5,
+        "z": 2309.5
+      },
+      "art": "Aztec",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -255.0625,
+        "y": 73.5,
+        "z": 2309.5
+      },
+      "art": "Aztec2",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -249.5,
+        "y": 77.0,
+        "z": 2316.0625
+      },
+      "art": "Graham",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -248.0,
+        "y": 76.0,
+        "z": 2316.0625
+      },
+      "art": "Stage",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -251.0,
+        "y": 76.0,
+        "z": 2316.0625
+      },
+      "art": "Bust",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -249.5,
+        "y": 75.5,
+        "z": 2316.0625
+      },
+      "art": "Aztec2",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -248.5,
+        "y": 73.5,
+        "z": 2316.0625
+      },
+      "art": "Alban",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -250.5,
+        "y": 73.5,
+        "z": 2316.0625
+      },
+      "art": "Plant",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -246.5,
+        "y": 77.5,
+        "z": 2316.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -252.5,
+        "y": 77.5,
+        "z": 2316.0625
+      },
+      "art": "Wasteland",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -242.0,
+        "y": 73.0,
+        "z": 2313.0625
+      },
+      "art": "Wither",
+      "angle": 180.0
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -255.0,
+        "y": 73.0,
+        "z": 2307.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -250.0,
+        "y": 102.0,
+        "z": 2304.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -255.0,
+        "y": 70.0,
+        "z": 2316.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -271.9375,
+        "y": 80.5,
+        "z": 2241.5
+      },
+      "art": "Bomb",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -271.9375,
+        "y": 80.5,
+        "z": 2244.5
+      },
+      "art": "Plant",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 63.0,
+        "z": 2243.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -263.0,
+        "y": 63.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -266.0,
+        "y": 69.0,
+        "z": 2242.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -266.0,
+        "y": 69.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -269.0,
+        "y": 69.0,
+        "z": 2240.0
+      },
+      "type": 3,
+      "rotation": 14,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -272.0,
+        "y": 75.0,
+        "z": 2244.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -265.0,
+        "y": 69.0,
+        "z": 2246.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -270.0,
+        "y": 69.0,
+        "z": 2244.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 8
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -268.0,
+        "y": 69.0,
+        "z": 2246.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -271.0,
+        "y": 80.0,
+        "z": 2241.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -271.0,
+        "y": 69.0,
+        "z": 2244.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 8
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -269.0,
+        "y": 69.0,
+        "z": 2244.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 8
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -232.0625,
+        "y": 72.5,
+        "z": 2318.0
+      },
+      "art": "Pool",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -237.5,
+        "y": 74.5,
+        "z": 2311.9375
+      },
+      "art": "Plant",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -230.0625,
+        "y": 72.5,
+        "z": 2308.5
+      },
+      "art": "Bomb",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -228.9375,
+        "y": 72.5,
+        "z": 2308.5
+      },
+      "art": "Alban",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -232.0,
+        "y": 88.0,
+        "z": 2305.0625
+      },
+      "art": "Void",
+      "angle": 180.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 73.0,
+        "z": 2311.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 73.0,
+        "z": 2313.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -191.5,
+        "y": 69.5,
+        "z": 2249.9375
+      },
+      "art": "Bomb",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -177.0,
+        "y": 69.0,
+        "z": 2268.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -178.0,
+        "y": 73.0,
+        "z": 2256.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -180.0,
+        "y": 73.0,
+        "z": 2256.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -226.0,
+        "y": 80.0,
+        "z": 2267.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -261.5,
+        "y": 71.5,
+        "z": 2298.9375
+      },
+      "art": "Kebab",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -257.5,
+        "y": 71.5,
+        "z": 2298.9375
+      },
+      "art": "Plant",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -257.5,
+        "y": 71.5,
+        "z": 2292.0625
+      },
+      "art": "Wasteland",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -261.5,
+        "y": 71.5,
+        "z": 2292.0625
+      },
+      "art": "Plant",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -261.5,
+        "y": 71.5,
+        "z": 2302.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -257.5,
+        "y": 71.5,
+        "z": 2302.0625
+      },
+      "art": "Alban",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -258.9375,
+        "y": 101.5,
+        "z": 2301.5
+      },
+      "art": "Wasteland",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -258.9375,
+        "y": 102.5,
+        "z": 2303.5
+      },
+      "art": "Kebab",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -256.5,
+        "y": 102.0,
+        "z": 2300.0625
+      },
+      "art": "Graham",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -258.9375,
+        "y": 102.5,
+        "z": 2296.5
+      },
+      "art": "Bomb",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -258.0,
+        "y": 101.5,
+        "z": 2298.9375
+      },
+      "art": "Sunset",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -260.0,
+        "y": 70.0,
+        "z": 2303.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -267.0,
+        "y": 70.0,
+        "z": 2299.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -258.0,
+        "y": 72.0,
+        "z": 2298.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -258.0,
+        "y": 72.0,
+        "z": 2292.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -260.0,
+        "y": 70.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -264.0,
+        "y": 70.0,
+        "z": 2303.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -258.0,
+        "y": 72.0,
+        "z": 2302.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -264.0,
+        "y": 70.0,
+        "z": 2293.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 72.0,
+        "z": 2302.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 72.0,
+        "z": 2298.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 72.0,
+        "z": 2292.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -260.0,
+        "y": 70.0,
+        "z": 2293.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -267.0,
+        "y": 72.0,
+        "z": 2301.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -281.0625,
+        "y": 63.0,
+        "z": 2276.5
+      },
+      "art": "Graham",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -277.9375,
+        "y": 63.0,
+        "z": 2282.5
+      },
+      "art": "Graham",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -277.9375,
+        "y": 63.0,
+        "z": 2281.5
+      },
+      "art": "Graham",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -283.5,
+        "y": 62.0,
+        "z": 2275.0625
+      },
+      "art": "Wanderer",
+      "angle": 180.0
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -281.0,
+        "y": 62.0,
+        "z": 2274.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 6
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -274.0,
+        "y": 63.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [{
+            "text": "The Back"
+          }],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -285.0,
+        "y": 62.0,
+        "z": 2274.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -278.0,
+        "y": 63.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -273.0,
+        "y": 62.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -273.0,
+        "y": 62.0,
+        "z": 2280.0
+      },
+      "type": 0,
+      "rotation": 5,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -274.0,
+        "y": 62.0,
+        "z": 2277.0
+      },
+      "type": 0,
+      "rotation": 13,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -282.0,
+        "y": 64.0,
+        "z": 2277.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -280.0,
+        "y": 61.0,
+        "z": 2282.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -280.0,
+        "y": 62.0,
+        "z": 2284.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -280.0,
+        "y": 62.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -285.0,
+        "y": 61.0,
+        "z": 2280.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -281.0,
+        "y": 63.0,
+        "z": 2275.0
+      },
+      "type": 0,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -276.0,
+        "y": 62.0,
+        "z": 2274.0
+      },
+      "type": 0,
+      "rotation": 14,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -283.0,
+        "y": 62.0,
+        "z": 2240.0
+      },
+      "type": 0,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -284.0,
+        "y": 62.0,
+        "z": 2240.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -275.0,
+        "y": 63.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -285.0,
+        "y": 62.0,
+        "z": 2293.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -284.0,
+        "y": 62.0,
+        "z": 2296.0
+      },
+      "type": 1,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -283.0,
+        "y": 63.0,
+        "z": 2292.0
+      },
+      "type": 0,
+      "rotation": 6,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -284.0,
+        "y": 63.0,
+        "z": 2292.0
+      },
+      "type": 0,
+      "rotation": 8,
+      "placement": 1
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -316.5,
+        "y": 69.5,
+        "z": 2294.0625
+      },
+      "art": "Aztec",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -312.5,
+        "y": 69.5,
+        "z": 2294.0625
+      },
+      "art": "Wasteland",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -318.9375,
+        "y": 71.0,
+        "z": 2298.0
+      },
+      "art": "Stage",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -322.0,
+        "y": 72.0,
+        "z": 2240.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -327.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -322.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -321.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -325.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -324.0,
+        "y": 79.0,
+        "z": 2242.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -321.0,
+        "y": 79.0,
+        "z": 2242.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -324.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -323.0,
+        "y": 73.0,
+        "z": 2240.0
+      },
+      "type": 3,
+      "rotation": 13,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -326.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -285.0,
+        "y": 68.0,
+        "z": 2337.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -191.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -180.0,
+        "y": 76.0,
+        "z": 2286.0
+      },
+      "type": 3,
+      "rotation": 7,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -186.0,
+        "y": 71.0,
+        "z": 2287.0
+      },
+      "type": 3,
+      "rotation": 3,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -191.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -192.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -186.0,
+        "y": 71.0,
+        "z": 2284.0
+      },
+      "type": 1,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -179.0,
+        "y": 76.0,
+        "z": 2286.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -177.0,
+        "y": 69.0,
+        "z": 2272.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -182.0,
+        "y": 71.0,
+        "z": 2285.0
+      },
+      "type": 3,
+      "rotation": 11,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -192.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -190.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -190.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -238.0625,
+        "y": 78.0,
+        "z": 2240.0
+      },
+      "art": "Stage",
+      "angle": 90.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -236.0,
+        "y": 82.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -232.0,
+        "y": 68.0,
+        "z": 2240.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -230.0,
+        "y": 74.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -232.0,
+        "y": 78.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -228.0,
+        "y": 70.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -230.0,
+        "y": 82.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -234.0,
+        "y": 69.0,
+        "z": 2240.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -230.0,
+        "y": 78.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -230.0,
+        "y": 70.0,
+        "z": 2243.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -232.0,
+        "y": 74.0,
+        "z": 2241.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -303.5,
+        "y": 69.5,
+        "z": 2314.9375
+      },
+      "art": "Bomb",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -192.5,
+        "y": 69.5,
+        "z": 2240.0625
+      },
+      "art": "Wasteland",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -205.5,
+        "y": 69.5,
+        "z": 2249.9375
+      },
+      "art": "Bomb",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -193.5,
+        "y": 69.5,
+        "z": 2249.9375
+      },
+      "art": "Alban",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -203.0,
+        "y": 70.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -196.0,
+        "y": 68.0,
+        "z": 2243.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -199.0,
+        "y": 70.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -204.0,
+        "y": 70.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -198.0,
+        "y": 70.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -203.0,
+        "y": 88.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -274.5,
+        "y": 62.5,
+        "z": 2259.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -272.5,
+        "y": 63.5,
+        "z": 2259.0625
+      },
+      "art": "Bomb",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -275.0,
+        "y": 63.0,
+        "z": 2269.0625
+      },
+      "art": "SkullAndRoses",
+      "angle": 180.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -275.0,
+        "y": 61.0,
+        "z": 2266.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -274.0,
+        "y": 62.0,
+        "z": 2261.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -274.0,
+        "y": 62.0,
+        "z": 2270.0
+      },
+      "type": 3,
+      "rotation": 4,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -280.0,
+        "y": 62.0,
+        "z": 2269.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -280.0,
+        "y": 62.0,
+        "z": 2267.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -274.0,
+        "y": 58.0,
+        "z": 2262.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -274.0,
+        "y": 57.0,
+        "z": 2262.0
+      },
+      "type": 0,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -278.0,
+        "y": 62.0,
+        "z": 2265.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -276.0,
+        "y": 61.0,
+        "z": 2267.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -275.0,
+        "y": 57.0,
+        "z": 2262.0
+      },
+      "type": 0,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -317.0625,
+        "y": 68.5,
+        "z": 2268.5
+      },
+      "art": "Aztec",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -319.5,
+        "y": 69.5,
+        "z": 2263.0625
+      },
+      "art": "Plant",
+      "angle": 180.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -315.0,
+        "y": 57.0,
+        "z": 2261.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -320.0,
+        "y": 70.0,
+        "z": 2264.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -319.0,
+        "y": 69.0,
+        "z": 2268.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -319.0,
+        "y": 67.0,
+        "z": 2270.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -186.0,
+        "y": 92.0,
+        "z": 2359.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 74.5,
+        "z": 2308.0
+      },
+      "art": "Sea",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 74.5,
+        "z": 2314.5
+      },
+      "art": "Plant",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -199.0,
+        "y": 74.5,
+        "z": 2307.0625
+      },
+      "art": "Creebet",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -193.0625,
+        "y": 74.5,
+        "z": 2317.5
+      },
+      "art": "Aztec",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -196.0625,
+        "y": 78.5,
+        "z": 2317.0
+      },
+      "art": "Creebet",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -201.5,
+        "y": 79.5,
+        "z": 2313.0625
+      },
+      "art": "Alban",
+      "angle": 180.0
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -195.0,
+        "y": 70.0,
+        "z": 2310.0
+      },
+      "type": 3,
+      "rotation": 11,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -195.0,
+        "y": 70.0,
+        "z": 2312.0
+      },
+      "type": 3,
+      "rotation": 13,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -195.0,
+        "y": 70.0,
+        "z": 2315.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -193.0,
+        "y": 70.0,
+        "z": 2309.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -197.0,
+        "y": 78.0,
+        "z": 2319.0
+      },
+      "type": 3,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -200.0,
+        "y": 74.0,
+        "z": 2313.0
+      },
+      "type": 3,
+      "rotation": 13,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -198.0,
+        "y": 74.0,
+        "z": 2316.0
+      },
+      "type": 3,
+      "rotation": 3,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -198.0,
+        "y": 74.0,
+        "z": 2315.0
+      },
+      "type": 3,
+      "rotation": 5,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -200.0,
+        "y": 74.0,
+        "z": 2311.0
+      },
+      "type": 3,
+      "rotation": 11,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -200.0,
+        "y": 74.0,
+        "z": 2316.0
+      },
+      "type": 3,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -199.0,
+        "y": 70.0,
+        "z": 2310.0
+      },
+      "type": 3,
+      "rotation": 5,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -198.0,
+        "y": 74.0,
+        "z": 2309.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -199.0,
+        "y": 79.0,
+        "z": 2311.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -200.0,
+        "y": 78.0,
+        "z": 2314.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -201.0,
+        "y": 78.0,
+        "z": 2314.0
+      },
+      "type": 3,
+      "rotation": 1,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -196.0,
+        "y": 74.0,
+        "z": 2309.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -196.0,
+        "y": 74.0,
+        "z": 2311.0
+      },
+      "type": 3,
+      "rotation": 7,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -195.0,
+        "y": 74.0,
+        "z": 2311.0
+      },
+      "type": 3,
+      "rotation": 8,
+      "placement": 1
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -241.5,
+        "y": 73.5,
+        "z": 2291.0625
+      },
+      "art": "Aztec",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -240.0625,
+        "y": 102.5,
+        "z": 2296.5
+      },
+      "art": "Plant",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -240.0625,
+        "y": 102.5,
+        "z": 2299.5
+      },
+      "art": "Kebab",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -243.0,
+        "y": 103.5,
+        "z": 2292.0625
+      },
+      "art": "Sea",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -256.0,
+        "y": 103.5,
+        "z": 2292.0625
+      },
+      "art": "Sunset",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -255.0,
+        "y": 102.5,
+        "z": 2298.9375
+      },
+      "art": "Creebet",
+      "angle": 0.0
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -247.0,
+        "y": 71.0,
+        "z": 2301.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -252.0,
+        "y": 71.0,
+        "z": 2300.0
+      },
+      "type": 3,
+      "rotation": 4,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -248.0,
+        "y": 72.0,
+        "z": 2301.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -250.0,
+        "y": 70.0,
+        "z": 2296.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -248.0,
+        "y": 72.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -243.0,
+        "y": 101.0,
+        "z": 2300.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -249.0,
+        "y": 101.0,
+        "z": 2302.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -249.0,
+        "y": 71.0,
+        "z": 2297.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -256.0,
+        "y": 70.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -246.0,
+        "y": 71.0,
+        "z": 2297.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -255.0,
+        "y": 101.0,
+        "z": 2303.0
+      },
+      "type": 3,
+      "rotation": 13,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -248.0,
+        "y": 100.0,
+        "z": 2291.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -250.0,
+        "y": 100.0,
+        "z": 2291.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -265.5,
+        "y": 72.5,
+        "z": 2327.9375
+      },
+      "art": "Alban",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -260.0,
+        "y": 72.5,
+        "z": 2331.9375
+      },
+      "art": "Creebet",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -262.9375,
+        "y": 72.5,
+        "z": 2330.5
+      },
+      "art": "Aztec",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -261.0,
+        "y": 71.0,
+        "z": 2321.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 71.0,
+        "z": 2320.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0,
+        "y": 79.5,
+        "z": 2321.9375
+      },
+      "art": "Courbet",
+      "angle": 0.0
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -207.0,
+        "y": 73.0,
+        "z": 2329.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -194.0,
+        "y": 73.0,
+        "z": 2325.0
+      },
+      "type": 3,
+      "rotation": 9,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -198.0,
+        "y": 78.0,
+        "z": 2321.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -205.0,
+        "y": 73.0,
+        "z": 2332.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -197.0,
+        "y": 70.0,
+        "z": 2320.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -196.0,
+        "y": 73.0,
+        "z": 2332.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -198.0,
+        "y": 70.0,
+        "z": 2320.0
+      },
+      "type": 3,
+      "rotation": 2,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -199.0,
+        "y": 78.0,
+        "z": 2321.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -197.0,
+        "y": 73.0,
+        "z": 2328.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -196.0,
+        "y": 73.0,
+        "z": 2335.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -257.0,
+        "y": 73.0,
+        "z": 2313.0625
+      },
+      "art": "Bust",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -265.5,
+        "y": 72.5,
+        "z": 2313.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -261.5,
+        "y": 74.5,
+        "z": 2311.9375
+      },
+      "art": "Plant",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 73.0,
+        "z": 2311.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -260.0,
+        "y": 70.0,
+        "z": 2315.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -264.0,
+        "y": 70.0,
+        "z": 2316.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -260.0,
+        "y": 70.0,
+        "z": 2313.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -264.0,
+        "y": 70.0,
+        "z": 2314.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -262.0,
+        "y": 73.0,
+        "z": 2313.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -180.9375,
+        "y": 70.5,
+        "z": 2296.5
+      },
+      "art": "Alban",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -182.9375,
+        "y": 71.0,
+        "z": 2292.5
+      },
+      "art": "Graham",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -183.9375,
+        "y": 72.5,
+        "z": 2290.5
+      },
+      "art": "Plant",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -184.0,
+        "y": 76.0,
+        "z": 2291.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -178.0,
+        "y": 76.0,
+        "z": 2292.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -177.0,
+        "y": 70.0,
+        "z": 2296.0
+      },
+      "type": 3,
+      "rotation": 7,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -180.0,
+        "y": 76.0,
+        "z": 2289.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -181.0,
+        "y": 69.0,
+        "z": 2288.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -185.0,
+        "y": 71.0,
+        "z": 2288.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -178.0,
+        "y": 77.0,
+        "z": 2296.0
+      },
+      "type": 4,
+      "rotation": 1,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -179.0,
+        "y": 70.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -178.0,
+        "y": 73.0,
+        "z": 2299.0
+      },
+      "type": 0,
+      "rotation": 0,
+      "placement": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -179.0,
+        "y": 73.0,
+        "z": 2290.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -185.0,
+        "y": 72.0,
+        "z": 2288.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -181.0,
+        "y": 77.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -181.0,
+        "y": 77.0,
+        "z": 2296.0
+      },
+      "type": 3,
+      "rotation": 1,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -179.0,
+        "y": 77.0,
+        "z": 2296.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -179.0,
+        "y": 75.0,
+        "z": 2295.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -180.0,
+        "y": 76.0,
+        "z": 2299.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -180.0,
+        "y": 73.0,
+        "z": 2298.0
+      },
+      "type": 0,
+      "rotation": 0,
+      "placement": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -180.0,
+        "y": 77.0,
+        "z": 2296.0
+      },
+      "type": 3,
+      "rotation": 1,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -185.0,
+        "y": 77.0,
+        "z": 2289.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -177.0,
+        "y": 73.0,
+        "z": 2299.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -181.0,
+        "y": 71.0,
+        "z": 2301.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -249.5,
+        "y": 74.0,
+        "z": 2330.9375
+      },
+      "art": "Wanderer",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -240.5,
+        "y": 72.5,
+        "z": 2322.9375
+      },
+      "art": "Wasteland",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 70.0,
+        "z": 2327.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 70.0,
+        "z": 2325.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 70.0,
+        "z": 2323.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 70.0,
+        "z": 2320.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 71.0,
+        "z": 2327.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -251.0,
+        "y": 70.0,
+        "z": 2321.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -254.0,
+        "y": 70.0,
+        "z": 2326.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -249.0,
+        "y": 71.0,
+        "z": 2327.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -253.0,
+        "y": 70.0,
+        "z": 2320.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -254.0,
+        "y": 70.0,
+        "z": 2320.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -250.0,
+        "y": 72.0,
+        "z": 2330.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -247.0,
+        "y": 74.0,
+        "z": 2284.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -253.0,
+        "y": 74.0,
+        "z": 2284.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -254.0,
+        "y": 74.0,
+        "z": 2284.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -246.0,
+        "y": 74.0,
+        "z": 2284.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -209.0625,
+        "y": 70.0,
+        "z": 2243.5
+      },
+      "art": "Wanderer",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -209.0625,
+        "y": 70.0,
+        "z": 2248.5
+      },
+      "art": "Wanderer",
+      "angle": 90.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -209.0,
+        "y": 69.0,
+        "z": 2242.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -215.0,
+        "y": 70.0,
+        "z": 2254.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -210.0,
+        "y": 69.0,
+        "z": 2248.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -217.0,
+        "y": 70.0,
+        "z": 2254.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -210.0,
+        "y": 69.0,
+        "z": 2243.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -209.0,
+        "y": 69.0,
+        "z": 2247.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -209.0,
+        "y": 69.0,
+        "z": 2244.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -203.0,
+        "y": 76.0,
+        "z": 2347.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -304.5,
+        "y": 76.5,
+        "z": 2326.9375
+      },
+      "art": "Wasteland",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -311.5,
+        "y": 69.5,
+        "z": 2314.9375
+      },
+      "art": "Aztec2",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -307.5,
+        "y": 69.5,
+        "z": 2314.9375
+      },
+      "art": "Alban",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -315.5,
+        "y": 69.5,
+        "z": 2314.9375
+      },
+      "art": "Plant",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -318.9375,
+        "y": 71.0,
+        "z": 2311.0
+      },
+      "art": "Void",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -307.0,
+        "y": 63.0,
+        "z": 2304.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -319.0,
+        "y": 69.0,
+        "z": 2307.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 12
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -319.0,
+        "y": 69.0,
+        "z": 2308.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 12
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -272.0,
+        "y": 62.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -272.0,
+        "y": 63.0,
+        "z": 2274.0
+      },
+      "type": 0,
+      "rotation": 12,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -270.0,
+        "y": 64.0,
+        "z": 2283.0
+      },
+      "type": 3,
+      "rotation": 14,
+      "placement": 1
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -323.9375,
+        "y": 68.5,
+        "z": 2268.5
+      },
+      "art": "Plant",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -323.5,
+        "y": 69.5,
+        "z": 2263.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 69.0,
+        "z": 2268.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -324.0,
+        "y": 70.0,
+        "z": 2264.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -322.0,
+        "y": 68.0,
+        "z": 2264.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -327.0,
+        "y": 72.0,
+        "z": 2267.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 67.0,
+        "z": 2270.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -217.0,
+        "y": 70.0,
+        "z": 2276.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -237.5,
+        "y": 73.5,
+        "z": 2291.0625
+      },
+      "art": "Kebab",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -238.0625,
+        "y": 88.0,
+        "z": 2293.0
+      },
+      "art": "Stage",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -236.9375,
+        "y": 88.5,
+        "z": 2293.5
+      },
+      "art": "Alban",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -236.9375,
+        "y": 87.5,
+        "z": 2292.0
+      },
+      "art": "Sunset",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -232.0,
+        "y": 88.0,
+        "z": 2297.9375
+      },
+      "art": "Stage",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -226.0,
+        "y": 70.0,
+        "z": 2302.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -236.0,
+        "y": 70.0,
+        "z": 2291.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 70.0,
+        "z": 2291.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -236.0,
+        "y": 70.0,
+        "z": 2296.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -232.0,
+        "y": 75.0,
+        "z": 2291.0
+      },
+      "type": 3,
+      "rotation": 10,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 70.0,
+        "z": 2296.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -291.0,
+        "y": 68.0,
+        "z": 2328.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 12
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -222.0,
+        "y": 69.0,
+        "z": 2269.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -323.9375,
+        "y": 68.5,
+        "z": 2272.5
+      },
+      "art": "Alban",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 67.0,
+        "z": 2274.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 69.0,
+        "z": 2272.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -189.0,
+        "y": 71.0,
+        "z": 2309.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -183.0,
+        "y": 71.0,
+        "z": 2310.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -189.0,
+        "y": 71.0,
+        "z": 2308.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -183.0,
+        "y": 71.0,
+        "z": 2309.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -200.5,
+        "y": 71.0,
+        "z": 2299.9375
+      },
+      "art": "Wanderer",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0625,
+        "y": 71.0,
+        "z": 2291.0
+      },
+      "art": "Wither",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 70.5,
+        "z": 2288.0
+      },
+      "art": "Sunset",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 71.5,
+        "z": 2292.0
+      },
+      "art": "Courbet",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 74.5,
+        "z": 2293.0
+      },
+      "art": "Sea",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0625,
+        "y": 74.5,
+        "z": 2292.5
+      },
+      "art": "Bomb",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -196.5,
+        "y": 74.5,
+        "z": 2295.0625
+      },
+      "art": "Aztec",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -200.0,
+        "y": 79.0,
+        "z": 2297.9375
+      },
+      "art": "SkullAndRoses",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -201.5,
+        "y": 78.5,
+        "z": 2289.0625
+      },
+      "art": "Plant",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0625,
+        "y": 78.5,
+        "z": 2293.5
+      },
+      "art": "Plant",
+      "angle": 90.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 72.0,
+        "z": 2297.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 72.0,
+        "z": 2298.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 72.0,
+        "z": 2299.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -202.0,
+        "y": 70.0,
+        "z": 2295.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -203.0,
+        "y": 74.0,
+        "z": 2298.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 72.0,
+        "z": 2300.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -203.0,
+        "y": 74.0,
+        "z": 2290.0
+      },
+      "type": 3,
+      "rotation": 3,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -202.0,
+        "y": 78.0,
+        "z": 2291.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -197.0,
+        "y": 70.0,
+        "z": 2297.0
+      },
+      "type": 3,
+      "rotation": 15,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -198.0,
+        "y": 78.0,
+        "z": 2296.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -198.0,
+        "y": 71.0,
+        "z": 2295.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 71.0,
+        "z": 2298.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 71.0,
+        "z": 2299.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -217.0,
+        "y": 75.0,
+        "z": 2345.0
+      },
+      "type": 3,
+      "rotation": 0,
+      "placement": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -239.0625,
+        "y": 72.5,
+        "z": 2321.5
+      },
+      "art": "Aztec",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -239.5,
+        "y": 72.5,
+        "z": 2324.0625
+      },
+      "art": "Plant",
+      "angle": 180.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -232.0625,
+        "y": 72.5,
+        "z": 2324.5
+      },
+      "art": "Alban",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -237.9375,
+        "y": 73.5,
+        "z": 2322.5
+      },
+      "art": "Wasteland",
+      "angle": 270.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 71.0,
+        "z": 2322.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -238.0,
+        "y": 72.0,
+        "z": 2322.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        [{
+            "text": "the Roid Chef"
+          }]
+      ],
+      "direction": 5
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0625,
+        "y": 71.0,
+        "z": 2287.0
+      },
+      "art": "Match",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 71.0,
+        "z": 2281.5
+      },
+      "art": "Wanderer",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -201.0,
+        "y": 71.0,
+        "z": 2282.9375
+      },
+      "art": "Stage",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -198.0625,
+        "y": 70.5,
+        "z": 2281.5
+      },
+      "art": "Plant",
+      "angle": 90.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.9375,
+        "y": 79.0,
+        "z": 2286.0
+      },
+      "art": "SkullAndRoses",
+      "angle": 270.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -202.0,
+        "y": 79.0,
+        "z": 2287.9375
+      },
+      "art": "Void",
+      "angle": 0.0
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -195.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -195.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -196.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -203.0,
+        "y": 70.0,
+        "z": 2286.0
+      },
+      "type": 3,
+      "rotation": 5,
+      "placement": 1
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -194.0,
+        "y": 73.0,
+        "z": 2283.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 2
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -196.0,
+        "y": 73.0,
+        "z": 2285.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "skull",
+      "position": {
+        "x": -322.0,
+        "y": 71.0,
+        "z": 2306.0
+      },
+      "type": 1,
+      "rotation": 0,
+      "placement": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -323.0,
+        "y": 70.0,
+        "z": 2304.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -320.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -319.0,
+        "y": 74.0,
+        "z": 2245.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 3
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -315.5,
+        "y": 70.0,
+        "z": 2282.9375
+      },
+      "art": "Graham",
+      "angle": 0.0
+    },
+    {
+      "kind": "painting",
+      "position": {
+        "x": -317.0625,
+        "y": 68.5,
+        "z": 2272.5
+      },
+      "art": "Aztec2",
+      "angle": 90.0
+    },
+    {
+      "kind": "sign",
+      "position": {
+        "x": -314.0,
+        "y": 68.0,
+        "z": 2279.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 9
+    },
+    {
+      "kind": "wallsign",
+      "position": {
+        "x": -319.0,
+        "y": 69.0,
+        "z": 2272.0
+      },
+      "text": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "direction": 4
+    }
+  ]
+}
