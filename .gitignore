@@ -3,11 +3,20 @@
 /build/
 /*.iml
 
+/chunky/
+
 /scenes/*.dump
 /scenes/*.backup
 
 # Benchmark files:
 /temp/
 /data/
+/renders/
 
 *.swp
+
+/.RData
+/.Rhistory
+
+/report.svg
+/notes.txt

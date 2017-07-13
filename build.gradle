@@ -16,7 +16,7 @@ dependencies {
   compile 'se.llbit:chunky-core:1.4.1'
 }
 
-mainClassName = 'se.llbit.chunky.Bench'
+mainClassName = 'se.llbit.chunky.Benchmark'
 
 jar {
   manifest {
