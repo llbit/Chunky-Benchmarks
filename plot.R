@@ -8,8 +8,15 @@ args <- commandArgs(trailingOnly=T)
 if (length(args) > 0) {
   versions <- args
 } else {
-  cat('ERROR: no versions specified!')
-  stop()
+  versions <- list()
+  for (f in list.files('data')) {
+    if (nchar(f) > 7) {
+      if (substring(f, nchar(f) - 6) == '-10.csv') {
+        versions <- c(versions, substr(f, 1, nchar(f) - 7))
+      }
+    }
+  }
+  cat(paste0('Found versions: ', paste(versions, collapse=', '), '\n'))
 }
 
 data <- NA
