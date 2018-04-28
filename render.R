@@ -30,7 +30,7 @@ chunkyjar <- file.path(bench.dir, 'chunky', 'build', paste0('chunky-', version, 
 system2('gradle', c('jar'))
 
 # Run benchmark.
-result <- system2('java', c('-jar', 'build/libs/chunky-bench.jar', 'bench', chunkyjar,
+result <- system2('java', c('-jar', 'bench.jar', 'bench', chunkyjar,
                             '--target', 1000))
 
 if (result == 0) {

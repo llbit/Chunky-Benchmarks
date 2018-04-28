@@ -8,4 +8,5 @@ if (length(args) > 0) {
   stop()
 }
 
+source('stats.R')
 benchmark(version)

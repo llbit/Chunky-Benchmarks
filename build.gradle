@@ -9,8 +9,7 @@ repositories {
   }
 }
 
-sourceCompatibility = '1.8'
-targetCompatibility = '1.8'
+sourceCompatibility = targetCompatibility = '1.8'
 
 dependencies {
   compile 'se.llbit:chunky-core:1.4.1'
@@ -19,6 +18,8 @@ dependencies {
 mainClassName = 'se.llbit.chunky.Benchmark'
 
 jar {
+  baseName = 'bench'
+  destinationDir = projectDir
   manifest {
     attributes('Main-Class': mainClassName)
   }

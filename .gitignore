@@ -8,6 +8,8 @@
 /scenes/*.dump
 /scenes/*.backup
 
+/*.jar
+
 # Benchmark files:
 /temp/
 /data/

@@ -77,11 +77,12 @@ benchmark <- function(version) {
     cat(paste0('Benchmark iteration ', iter, '\n'))
 
     # Run benchmark iteration.
-    system2('java', c('-jar', 'build/libs/chunky-bench.jar', 'bench', chunkyjar,
+    system2('java', c('-jar', 'bench.jar', 'bench', chunkyjar,
                       '--target', 300))
 
     # Collect results
+    dir.create(file.path('data'), showWarnings=FALSE)
     csvout <- file.path('data', paste0(version, '-', iter, '.csv'))
-    system2('java', c('-jar', 'build/libs/chunky-bench.jar', 'stats'), stdout=csvout)
+    system2('java', c('-jar', 'bench.jar', 'stats'), stdout=csvout)
   }
 }
