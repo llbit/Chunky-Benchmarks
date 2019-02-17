@@ -65,7 +65,7 @@ benchmark <- function(version) {
   }
   system2('git', c('reset', '--hard', version))
   system2('git', c('clean', '-fdX')) # Remove any unwanted files.
-  system2('gradle', 'releaseJar')
+  system2('gradle', c('releaseJar', paste0('-PnewVersion=', version)))
   setwd(bench.dir)
 
   chunkyjar <- file.path(bench.dir, 'chunky', 'build', paste0('chunky-', version, '.jar'))
